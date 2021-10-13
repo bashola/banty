@@ -499,7 +499,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#152137"
+              "color": "#e6c63b"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#fafafa",
