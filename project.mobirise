@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "5.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2021-10-12-at-8.45.55-am_2.jpeg",
     "mbrsiteDomain": "4nz27e0ymv",
@@ -779,6 +779,32 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "socialFacebook": false,
+            "postsNumber": 5,
+            "socialDisqus": true,
+            "shortName": "",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder text-center\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder text-center\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "facebook-comments-block-m"
         },
         {
           "alias": false,
