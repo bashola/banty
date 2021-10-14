@@ -51,7 +51,7 @@
     "uniqCompNum": 25,
     "versionPublish": "5.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2021-10-12-at-8.45.55-am_2.jpeg",
-    "mbrsiteDomain": "4nz27e0ymv",
+    "mbrsiteDomain": "ui7ig5lq5r",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -65,7 +65,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "google-site-verification=quskv_vUpkMFQ6Q-fphUbyfmQXqQ0Jg-hH0lrS8d2f0"
   },
   "pages": {
     "index.html": {
